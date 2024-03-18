@@ -1,1 +1,2 @@
-![image](https://github.com/ruthjoy76/my-fitness-pal/assets/126475991/7c9fc4c8-bcb2-421d-9eae-b399065c7b83)
+
+![Screenshot (77)](https://github.com/ruthjoy76/my-fitness-pal/assets/126475991/dce05351-a1f8-4a00-9ee6-f1c01cf71784)
