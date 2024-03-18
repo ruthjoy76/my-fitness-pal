@@ -5,17 +5,17 @@ const FoodListItem = ({item}) =>{
     return (
       <View style={styles.container}>
           <View style={{ flex:1, gap: 5}}>
-            <Text style={{ color: '#fff', fontWeight: 'bold', fontSize: 20,}}>{item.label}</Text>
-            <Text style={{color: '#f1f1f1'}}>{item.cal}, {item.brand}</Text>
+            <Text style={{ color: '#4cacef', fontWeight: 'bold', fontSize: 20,}}>{item.label}</Text>
+            <Text style={{color: '#010101'}}>{item.cal}, {item.brand}</Text>
           </View>
-          <AntDesign name="pluscircleo" size={24} color="#f1f1f1" />
+          <AntDesign name="pluscircleo" size={24} color="#010101" />
         </View>
     )
   };
 
   const styles = StyleSheet.create({
     container: {
-        backgroundColor: '#4cacef', 
+        backgroundColor: '#f6f6f8', 
         padding: 10, 
         borderRadius: 5, 
         gap: 10,
